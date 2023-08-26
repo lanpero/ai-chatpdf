@@ -1,0 +1,7 @@
+langchain
+openai
+pypdf
+hnswlib
+chromadb
+tiktoken
+pysqlite3-binary
